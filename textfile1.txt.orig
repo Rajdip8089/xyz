@@ -4,5 +4,8 @@ add new line
 pranav
 and RC
 this is a phone
+<<<<<<< HEAD
 fghjkl
+=======
 conflictttt
+>>>>>>> 8f4fe18a16336ee6a19aced64a92b9551f6dc4b8
