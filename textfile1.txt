@@ -8,5 +8,9 @@ fghjkl
 conflictttt
 conflict----
 conflict++++
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 
+=======
+bug is fixed.
+>>>>>>> Stashed changes
