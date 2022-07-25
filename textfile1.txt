@@ -8,3 +8,4 @@ fghjkl
 conflictttt
 conflict----
 conflict++++
+bug bug
