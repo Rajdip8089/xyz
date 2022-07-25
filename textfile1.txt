@@ -7,4 +7,10 @@ this is a phone
 fghjkl
 conflictttt
 conflict----
+<<<<<<< HEAD
 conflict++++
+=======
+conflict++++
+<<<<<<< HEAD
+
+>>>>>>> e52f01da1c95e285bff9d9fc815a71d2d16716c1

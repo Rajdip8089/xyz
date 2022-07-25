@@ -4,11 +4,12 @@ add new line
 pranav
 and RC
 this is a phone
-<<<<<<< HEAD
-conflictttt
-conflict++++
-=======
 fghjkl
 conflictttt
 conflict----
->>>>>>> f36a8b16c6cbe7d24b5a2ea94511e48f86178bc3
+conflict++++
+<<<<<<< Updated upstream
+bug bug
+=======
+bug is fixed.
+>>>>>>> Stashed changes
