@@ -7,10 +7,12 @@ this is a phone
 fghjkl
 conflictttt
 conflict----
+<<<<<<< HEAD
+conflict++++
+=======
 conflict++++
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 
-=======
 bug is fixed.
 >>>>>>> Stashed changes
