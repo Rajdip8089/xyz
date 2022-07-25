@@ -9,3 +9,4 @@ conflictttt
 conflict----
 conflict++++
 bug bug
+bug is fixed.
